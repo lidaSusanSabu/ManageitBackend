@@ -1,0 +1,8 @@
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\bin\Debug\netcoreapp3.0\ClassLibraryManageit.deps.json
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\bin\Debug\netcoreapp3.0\ClassLibraryManageit.dll
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\bin\Debug\netcoreapp3.0\ClassLibraryManageit.pdb
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\obj\Debug\netcoreapp3.0\ClassLibraryManageit.csprojAssemblyReference.cache
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\obj\Debug\netcoreapp3.0\ClassLibraryManageit.AssemblyInfoInputs.cache
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\obj\Debug\netcoreapp3.0\ClassLibraryManageit.AssemblyInfo.cs
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\obj\Debug\netcoreapp3.0\ClassLibraryManageit.dll
+D:\projects\ManageIt\ManageItBackend\Manageit\ClassLibraryManageit\obj\Debug\netcoreapp3.0\ClassLibraryManageit.pdb
